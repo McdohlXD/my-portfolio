@@ -1,4 +1,4 @@
-import logo from '/Logo.png';
+import logo from './../icon/Logo.png';
 export default function Logo() {
   return (
     <div className="flex items-center justify-center   ">
