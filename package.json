@@ -1,9 +1,10 @@
 {
   "name": "my-portfolio-v1",
+  "homepage": "https://mcdohlxd.github.io/my-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mcdohlxd.github.io/my-portfolio/",
+  
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
